@@ -26,7 +26,7 @@ A presentation by Weston Belk
 
 <figure>
 	<img class="percent50" src="content/stallman.jpg">
-	<figcaption class="imgcaption"><a href="#">Photo</a> by <a href="#">Richard Stallman</a> is licensed under <a href="#">CC BY-ND 3.0</a></figcaption>
+	<figcaption class="imgcaption"><a href="https://stallman.org/photos/vietnam/tamcoc/img_0554.jpg">Photo</a> by <a href="https://stallman.org">Richard Stallman</a> is licensed under <a href="https://creativecommons.org/licenses/by-nd/3.0/">CC BY-ND 3.0</a></figcaption>
 </figure>
 <style>
 img.percent50 {
