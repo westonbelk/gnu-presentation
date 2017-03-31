@@ -20,9 +20,11 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-mkdir reveal.js/content
-cp slides.md reveal.js/content/slides.md
-cp images/stallman.jpg reveal.js/content/stallman.jpg
+git submodule init &&
+git submodule update &&
+mkdir reveal.js/content &&
+cp slides.md reveal.js/content/slides.md &&
+cp images/stallman.jpg reveal.js/content/stallman.jpg &&
 cp images/coreutils.png reveal.js/content/coreutils.png
 
 # cd reveal.js
