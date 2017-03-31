@@ -13,9 +13,7 @@ A presentation by Weston Belk
 * A collection of userland software
 	- CoreUtils
 		* Unix philosophy
-	- Text editors
-	- Games
-	- And more!
+	- Text editors, games, and more!
 * Ubuntu, Fedora, and other Linux distributions use GNU software
 
 ---
