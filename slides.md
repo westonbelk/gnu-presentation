@@ -25,7 +25,7 @@ A presentation by Weston Belk
 	- Learned to love open source
 
 <figure>
-	<img class="percent50" src="slides/stallman.jpg">
+	<img class="percent50" src="content/stallman.jpg">
 	<figcaption class="imgcaption"><a href="#">Photo</a> by <a href="#">Richard Stallman</a> is licensed under <a href="#">CC BY-ND 3.0</a></figcaption>
 </figure>
 <style>
@@ -102,7 +102,7 @@ figcaption.imgcaption {
 
 ---
 
-<img class="percent80" src="slides/coreutils.png">
+<img class="percent80" src="content/coreutils.png">
 <style>
 	img.percent80 {
 		width: 80%;
