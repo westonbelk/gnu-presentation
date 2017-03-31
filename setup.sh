@@ -22,10 +22,10 @@
 
 git submodule init &&
 git submodule update &&
-mkdir reveal.js/content &&
-cp slides.md reveal.js/content/slides.md &&
-cp images/stallman.jpg reveal.js/content/stallman.jpg &&
-cp images/coreutils.png reveal.js/content/coreutils.png
+mkdir -v reveal.js/content &&
+cp -v slides.md reveal.js/content/slides.md &&
+cp -v images/stallman.jpg reveal.js/content/stallman.jpg &&
+cp -v images/coreutils.png reveal.js/content/coreutils.png
 
 # cd reveal.js
 # http-server
