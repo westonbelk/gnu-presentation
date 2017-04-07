@@ -7,14 +7,12 @@ A presentation by Weston Belk
 ## What is GNU?
 
 * An operating system
+	- A collection of userland software
 	- GNU's Not Unix
-	- ...but it's close
-	- Free software
-* A collection of userland software
-	- CoreUtils
-		* Unix philosophy
+	- Coreutils
 	- Text editors, games, and more!
 * Ubuntu, Fedora, and other Linux distributions use GNU software
+* Free software movement
 
 ---
 
